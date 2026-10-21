@@ -1,0 +1,4 @@
+interface:
+  display_name: "Three.js Mixamo 角色導入"
+  short_description: "導入 FBX 角色與貼圖，依遊戲狀態切換待機、移動及其他動畫"
+  default_prompt: "使用 $threejs-mixamo-character-00vchannel 將我的 FBX 角色、貼圖與動畫導入現有 Three.js 遊戲，依遊戲狀態切換動畫。"
